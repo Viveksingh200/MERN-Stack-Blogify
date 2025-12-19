@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Blogify – MERN Stack Blogging Platform
 Blogify is a full-stack blogging application built using the MERN Stack (MongoDB, Express.js, React, Node.js).
 It allows users to create, edit, delete, and manage their blog posts with a clean and intuitive interface.
@@ -55,3 +56,6 @@ Blogify/
  ├── models/        # Mongoose schemas
  ├── routes/        # API routes
  └── README.md
+=======
+
+>>>>>>> 5d7d808c64f6187b049f208a483c6cad81152da5
